@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8C459902-713A-4219-ADB8-4F1FA2806135</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LightBlueBeanTesting</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9407C676293551CD9C812C9D436E7A67A14236DF</key>
+		<string>github.com:ryanpoplin/....git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LightBlueBeanTesting/LightBlueBeanTesting/LightBlueBeanTesting.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9407C676293551CD9C812C9D436E7A67A14236DF</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ryanpoplin/....git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9407C676293551CD9C812C9D436E7A67A14236DF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9407C676293551CD9C812C9D436E7A67A14236DF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>matrix</string>
+		</dict>
+	</array>
+</dict>
+</plist>
